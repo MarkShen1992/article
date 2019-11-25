@@ -6,5 +6,7 @@
 
 
 
+## 技术
 
+[JVM  learn](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/GC_Tuning_note.md)
 
