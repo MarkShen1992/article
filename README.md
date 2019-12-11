@@ -18,5 +18,7 @@
 
 [Youth](https://github.com/MarkShen1992/article/blob/master/english%20poem/Youth.md)
 
+[When you are old](https://github.com/MarkShen1992/article/blob/master/english%20poem/When%20you%20are%20old.jpg)
 
+[A birthday](https://github.com/MarkShen1992/article/blob/master/english%20poem/A%20birthday.jpg)
 
