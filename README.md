@@ -22,3 +22,7 @@
 
 [A birthday](https://github.com/MarkShen1992/article/blob/master/english%20poem/A%20birthday.jpg)
 
+[How many bards gild the lapses of time](https://github.com/MarkShen1992/article/blob/master/english%20poem/How%20many%20bards%20gild%20the%20lapses%20of%20time.jpg)
+
+[I pass by in silence](https://github.com/MarkShen1992/article/blob/master/english%20poem/I%20pass%20by%20in%20silence.jpg)
+
