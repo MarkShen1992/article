@@ -12,6 +12,8 @@
 
 [Git常用配置](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/Git%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE.md)
 
+[面向对象程序设计思想](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3.md)
+
 
 
 ### 英文诗歌
