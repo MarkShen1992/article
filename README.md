@@ -34,4 +34,5 @@
 
 ### Revolution
 
-[Generation Like](https://www.youtube.com/watch?v=JqamKb7gTWY)
+[Generation Like](https://www.bilibili.com/video/BV1Ex411t7td?from=search&seid=15095753552759750083)
+
