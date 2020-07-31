@@ -1,0 +1,13 @@
+# CC5_An inexperienced cook
+
+Hello everybody, I am Mark. Today, I am gonna share a story about myself. One day, my mom and dad were too busy to cook dinner.  So I decided to do it myself. 
+
+There were two parts in this procedure.  One was staple diet, the other one was non-staple food. I decided to cook staple diet first. Because that was gonna spend a long time.  For the staple diet, I estimated how much rice I prepared was enough for three people. I thought 0.8 kg was enough. After this, I washed rice once and put it into rice cooker to braise for 1 hour.  It was easy to cook rice. But non-staple food was not easy to cook. For the non-staple food, I was gonna stew cucurbita pepo with fried eggs. To do this, I've got to do a lot of preparation. For instance, cooking materials, such as cucurbita pepo, garlic, spring onions, eggs, soybean oil, water, etc.
+
+I thought that everything was ready. I could start to cook my non-staple food. There were several steps to cook cucurbita pepo with fried eggs. The first step was that I already prepared three raw eggs and break them and put the liquid into a container. The second step was that I stirred eggs in the container via chopsticks and added less salt. The third step was that I lighted the fire and added some soybean oil into wok for a while. The fourth step was that I put the mixed eggs to wok and used spatula to turn eggs in wok for a while.  At this moment, I wanna add cucurbita pepo, but I found I hadn't wash the cucurbita pepo which was already cut. Oh my god, I thought that's too bad. I felt that I am so awkward. I immediately washed them with clear water. But I smelt a little bit scorched smell at this moment, I grabbed the cucurbita pepo and went near wok and put them into wok as quickly as possible. Next, I used the spatula to turn the vegetable and fried eggs. Next, I added some ingredient to wok, such as salt, soy sauce, chicken bouillon etc. Finally, I added some water into wok and put the wok cover to the wok for 15 minutes.
+
+Time was up. I filled a big bowl with cucurbita pepo with fried eggs, and put it on table. I tasted well but a little scorched smell. After I finished the meal, I got several experiences:
+
+When you do a thing, you have to try your best to think about it. There are some steps you need to care and the sequence in every step. which step is first, which step is second and which step is the final.  I think it's very important. And there are some factors in a step, you have to focus yet. At the end, I wanna deliver a sentence to you, "Small details make big differences."
+
+Thank you, back to our TM.
