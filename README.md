@@ -46,3 +46,9 @@
 
 [Generation Like](https://www.bilibili.com/video/BV1Ex411t7td?from=search&seid=15095753552759750083)
 
+
+
+### 企业
+
+**vision, mission, core values**
+
