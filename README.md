@@ -16,6 +16,16 @@
 
 [工具软件](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6.md)
 
+[汇编语言](https://www.nasm.us/index.php)
+
+[汇编指令](https://www.felixcloutier.com/x86/)
+
+[系统开发](https://wiki.osdev.org/Main_Page)
+
+[int 0x80 Definition](http://www.linfo.org/int_0x80.html)
+
+[Airbnb](https://airbnb.io/)
+
 
 
 ### 英文诗歌
