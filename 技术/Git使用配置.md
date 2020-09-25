@@ -64,7 +64,7 @@ git log
 
 ## 往仓库里添加文件
 
-- **工作目录 =》暂存区 =》 版本历史**
+- **工作区 =》暂存区 =》 版本历史**
 
 ​             git add files    git commit
 
@@ -200,5 +200,192 @@ git rebase -i 所有需要变更的 commit 的前一个commit
 
 ```
 git rebase -i saflsa
+```
+
+## 如何比较暂存区和HEAD所含文件的差异
+
+```
+vi index.html
+git status
+git diff --cached
+```
+
+## 怎么比较工作区和暂存区所含文件的差异
+
+```
+git diff
+git diff -- readme.md # 指定某个具体文件
+```
+
+## 如何让暂存区恢复成和HEAD的一样
+
+```
+git reset HEAD  # 暂存区 => 工作区
+```
+
+## 如何让工作区的文件恢复成和暂存区一样
+
+```
+git checkout -- index.html
+```
+
+## 如何取消暂存区部分文件的更改
+
+```
+git reset HEAD -- index.html
+```
+
+## 消除最近几次提交(工作区、暂存区)
+
+```
+git reset --hard sfalsajflsajdl  # 慎用
+git reset --hard HEAD
+```
+
+## 看看不同提交的指定文件的差异
+
+```
+# 分支比较
+git diff master temp # 所有文件
+git diff master temp -- index.html # index.html 文件
+git diff sajfdsladjf safjsfjasdl -- index.html 文件
+```
+
+## 正确删除文件的方法
+
+```
+git rm readme
+```
+
+## 开发中临时加塞了紧急任务怎么处理
+
+```
+git stash
+git stash list
+git status
+
+git stash apply # 把 stash 命令操作后的内容弹出来，继续修改；同时，stash 堆栈内的内容还在，不会被删除
+git stash pop # 把 stash 命令操作后的内容弹出来，继续修改；同时，stash 堆栈内的内容不存在，会被删除
+```
+
+## 如何指定不需要Git管理的文件
+
+`.gitignore` 文件
+
+[gitignore official configuration](https://github.com/github/gitignore)
+
+## 如何将 Git 仓库备份到本地
+
+| 常用协议      | 语法格式                                       | 说明                   |
+| :------------ | ---------------------------------------------- | ---------------------- |
+| 本地协议（1） | /path/to/repo.git                              | 哑协议                 |
+| 本地协议（2） | file:///path/to/repo.git                       | 智能协议               |
+| http/https    | http(s)://git-server.com:port/path/to/repo.git | 平时接触到都是只能协议 |
+| ssh           | user@git-server.com:path/to/repo.git           | 工作中最常用的只能协议 |
+
+哑协议传输进度不可见，智能可见；且只能协议传输速度大于哑协议；工作中使用智能协议
+
+Git是一个分布式代码版本控制系统。
+
+```
+git clone --bare [绝对路径]/.git backup.git
+git clone --bare file:///[绝对路径]/.git backup.git
+
+# 与远程仓库关联
+git remote add ai file:///[绝对路径]/backup.git
+git push ai
+git push --set-upstream ai backup
+```
+
+## Github 注册
+
+www.github.com
+
+## 配置好公钥私钥
+
+https://docs.github.com/en
+
+## 在Github中创建一个仓库
+
+https://docs.github.com/en
+
+## 本地仓库同步到远端仓库
+
+```
+git remote add github https://github.com/git201901/git_learning.git
+git pull
+git push
+git fetch github master
+```
+
+## 不同人修改了不同文件如何处理
+
+```
+在两个人协同工作的时候首先要做的是：
+git pull
+修改文件 commit
+git push
+git pull
+
+# fetch 与 pull 的区别
+fetch 不自动合并，需要使用 git merge 命令
+pull 自动合并（推荐使用）
+```
+
+## 不同人修改了同一个文件不同区域
+
+```
+在两个人协同工作的时候首先要做的是：
+git pull
+修改文件 commit
+git push
+git pull
+
+# fetch 与 pull 的区别
+fetch 不自动合并，需要使用 git merge 命令
+pull 自动合并（推荐使用）
+```
+
+## 不同人修改了同一文件的同一区域
+
+```
+# 冲突解决
+在两个人协同工作的时候首先要做的是：
+git pull
+修改文件 commit
+git push
+git pull
+
+# fetch 与 pull 的区别
+fetch 不自动合并，需要使用 git merge 命令
+pull 自动合并（推荐使用）
+
+# 编辑冲突文件
+git commit -m'resolved conflicts'
+```
+
+## 同时变更了文件名和文件内容如何处理
+
+```
+git mv index.html index.htm
+git pull
+```
+
+## 把同一文件改成了不同的文件名如何处理
+
+```
+做好沟通，逐个文件处理
+```
+
+## 禁止向集成分支执行 `push -f` 操作
+
+```
+git reset --hard asjfdasj
+```
+
+## 禁止向集成分支执行变更历史的操作
+
+```
+不要对应集成分支有 rebase 的行为
 ```
 
