@@ -389,3 +389,90 @@ git reset --hard asjfdasj
 不要对应集成分支有 rebase 的行为
 ```
 
+## Github 的核心功能
+
+https://github.com/features
+
+https://github.com/marketplace
+
+## 找感兴趣的开源项目
+
+- 一般搜索
+
+- 高级搜索 https://github.com/search/advanced?q=java&type=Repositorie
+- 搭建个人博客
+- in:readme
+- stars:>1000
+- https://docs.github.com/en/free-pro-team@latest/github/searching-for-information-on-github
+
+## 开源项目如何保存代码质量
+
+https://www.jianshu.com/p/d9f217e1b09b
+
+## 为何需要组织类型的仓库
+
+`New Organization`
+
+一个组织多个 `repositories`
+
+团队加人，不同人不同权限
+
+## 如何选择适合自己团队的工作流
+
+- 考虑因素
+  - 团队人员组成
+  - 研发设计能力
+  - 输出产品特征
+  - 项目难以程度
+- 主干开发
+- CI/CD  /  DevOps
+- Git Flow
+  - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+  - https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow/
+  - http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
+  - https://datasift.github.io/gitflow/IntroducingGitFlow.html
+  - https://nvie.com/posts/a-successful-git-branching-model/
+  - https://jeffkreeftmeijer.com/git-flow/
+
+## 如何挑选合适的分支集成策略
+
+- `Insights` -> `Network` 
+- `Settings` -> Merge button
+  - merge commits
+  - squash merging
+  - rebase merging
+
+## 启用issue跟踪需求和任务
+
+- issues
+  - CRUD
+
+## 如何用project管理 issue
+
+- project
+  - new project
+- kanban (敏捷团队)
+  - https://trello.com/
+  - `github` 自带的看板
+
+## 项目内部如何做 `code review`
+
+- `settings` -> `branches` 
+
+## 团队协作时如何做多分支集成
+
+- PR -> Merge
+
+## 如何保证集成质量
+
+- https://github.com/marketplace
+- 提`PR`后，在合并确认的时候github会再跑下代码
+
+## Github 发布产品包
+
+- github release
+- https://travis-ci.org
+
+## 给项目增加文档
+
+- wiki document
