@@ -12,9 +12,10 @@
   - 支持离线操作（本地仓库，远程仓库）
   - 很容易制作工作流程
 - 与之相关的远程仓库
-  - Github
-  - Gitlab（CI特性）
-  - 码云
+  - [Github](https://www.github.com)
+  - [Gitlab（CI特性）](https://about.gitlab.com/)
+  - [码云](https://gitee.com/)
+  - [coding.net](https://coding.net)
 
 ## Git使用配置
 
