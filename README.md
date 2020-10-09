@@ -26,6 +26,8 @@
 
 [Airbnb](https://airbnb.io/)
 
+[PMP考试](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/PMP.md)
+
 
 
 ### 英文诗歌
