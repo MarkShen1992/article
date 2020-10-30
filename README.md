@@ -30,6 +30,8 @@
 
 [PMP考试](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/PMP.md)
 
+[VMware虚拟机三种网络模式详解](https://www.cnblogs.com/linjiaxin/p/6476480.html)
+
 
 
 ### 英文诗歌
