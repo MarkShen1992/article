@@ -6,6 +6,8 @@
 
 [清华人都如此努力了，那我们呢？](https://github.com/MarkShen1992/article/blob/master/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80/%E6%B8%85%E5%8D%8E%E4%BA%BA%E9%83%BD%E5%A6%82%E6%AD%A4%E5%8A%AA%E5%8A%9B%EF%BC%8C%E9%82%A3%E6%88%91%E4%BB%AC%E5%91%A2.md)
 
+[做新闻评论要做到:](https://github.com/MarkShen1992/article/blob/master/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80/%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+
 
 
 ### 技术
