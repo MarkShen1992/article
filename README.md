@@ -34,6 +34,8 @@
 
 [VMware虚拟机三种网络模式详解](https://www.cnblogs.com/linjiaxin/p/6476480.html)
 
+[用于软件架构的 C4 模型](https://www.infoq.cn/article/C4-architecture-model/)
+
 
 
 ### 英文诗歌
