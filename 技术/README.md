@@ -10,6 +10,7 @@
 - [ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 - [SOA medium](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
 - [SOA wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [边缘计算](https://zh.wikipedia.org/wiki/%E9%82%8A%E7%B7%A3%E9%81%8B%E7%AE%97)
 
 #### 论文
 - [paperswelove](https://paperswelove.org/)
