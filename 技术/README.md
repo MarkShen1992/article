@@ -14,6 +14,9 @@
 - [边缘计算为什么会迅速占据市场？](https://mp.weixin.qq.com/s/G9DdNa0ThHZBJrTxG7DbDg)
 - [爱奇艺边缘计算探索与实践](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247487753&idx=1&sn=d4fcc4b8e3065e2496666dc08ace3aa6&chksm=e9768d2ade01043cbe2e9ee8809dc0ab9815f689171994a58f4232c034511466ecbd6968e2c9&scene=27#wechat_redirect)
 
+#### 代码管理
+- [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
 #### 论文
 - [paperswelove](https://paperswelove.org/)
 
