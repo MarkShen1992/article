@@ -7,12 +7,22 @@
 - [tidb communitity](https://asktug.com/)
 - [akkt](https://akka.io/docs/)
 - [Dapr](https://dapr.io/)
-- [ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus)
-- [SOA medium](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
-- [SOA wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-- [边缘计算](https://zh.wikipedia.org/wiki/%E9%82%8A%E7%B7%A3%E9%81%8B%E7%AE%97)
-- [边缘计算为什么会迅速占据市场？](https://mp.weixin.qq.com/s/G9DdNa0ThHZBJrTxG7DbDg)
-- [爱奇艺边缘计算探索与实践](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247487753&idx=1&sn=d4fcc4b8e3065e2496666dc08ace3aa6&chksm=e9768d2ade01043cbe2e9ee8809dc0ab9815f689171994a58f4232c034511466ecbd6968e2c9&scene=27#wechat_redirect)
+- SOA
+  - [ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus)
+  - [SOA medium](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
+  - [SOA wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- 边缘计算
+  - [边缘计算](https://zh.wikipedia.org/wiki/%E9%82%8A%E7%B7%A3%E9%81%8B%E7%AE%97)
+  - [边缘计算为什么会迅速占据市场？](https://mp.weixin.qq.com/s/G9DdNa0ThHZBJrTxG7DbDg)
+  - [爱奇艺边缘计算探索与实践](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247487753&idx=1&sn=d4fcc4b8e3065e2496666dc08ace3aa6&chksm=e9768d2ade01043cbe2e9ee8809dc0ab9815f689171994a58f4232c034511466ecbd6968e2c9&scene=27#wechat_redirect)
+- OAuth2.0
+  - https://datatracker.ietf.org/doc/html/rfc6749
+  - https://open.tencent.com/
+  - https://open.weibo.com/
+  - https://developer.linkedin.com/zh-cn
+
+- HTTP
+  - [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) 
 
 #### 代码管理
 - [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
