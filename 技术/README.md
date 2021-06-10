@@ -21,6 +21,10 @@
   - https://open.weibo.com/
   - https://developer.linkedin.com/zh-cn
 
+- API Design
+  - [Google API Design](https://cloud.google.com/apis/design)
+  - [paypal api-standards](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+
 - HTTP
   - [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) 
 
