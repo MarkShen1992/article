@@ -40,3 +40,4 @@
 #### 自我驱动
 - [MEGAEASE的远程工作文化](https://coolshell.cn/articles/20765.html)
 - [程序员如何把控自己的职业](https://coolshell.cn/articles/20977.html)
+- [别让自己“墙”了自己](https://coolshell.cn/articles/20276.html)
