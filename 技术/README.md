@@ -36,5 +36,7 @@
 
 #### 管理
 - [打造高效团队的最佳实践｜GTLC](https://www.infoq.cn/article/MYEKmcClGEXvKRQ7LWNY)
+
+#### 自我驱动
 - [MEGAEASE的远程工作文化](https://coolshell.cn/articles/20765.html)
 - [程序员如何把控自己的职业](https://coolshell.cn/articles/20977.html)
