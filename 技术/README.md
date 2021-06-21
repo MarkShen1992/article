@@ -31,6 +31,9 @@
 - HTTP
   - [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) 
 
+- 分布式系统
+  - [Distributed System Lecture Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
 #### 代码管理
 - [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 
