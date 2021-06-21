@@ -25,6 +25,9 @@
   - [Google API Design](https://cloud.google.com/apis/design)
   - [paypal api-standards](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 
+- 分布式锁
+  - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+
 - HTTP
   - [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) 
 
