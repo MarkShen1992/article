@@ -12,3 +12,6 @@
   - [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g&t=1094s)
   - [Visualise, document and explore your software architecture - Simon Brown](https://www.youtube.com/watch?v=Ym9nhVZs89o)
   - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+
+### Tech Sharing
+- [Large-Scale Order Dispatch in On-Demand Ride-Hailing Platforms: A Learning and Planning Approach](https://dl.acm.org/doi/10.1145/3219819.3219824)
