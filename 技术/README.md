@@ -50,3 +50,6 @@
 
 #### 内功
 - [101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
+
+#### 微观
+- [缓存一致性协议](https://www.cnblogs.com/ynyhl/p/12119690.html)
