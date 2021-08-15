@@ -8,7 +8,7 @@
 
 [做新闻评论要做到](https://github.com/MarkShen1992/article/blob/master/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80/%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
 
-
+每年学习一个新技能。
 
 ### 技术
 
