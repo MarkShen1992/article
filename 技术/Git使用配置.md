@@ -319,7 +319,7 @@ git push
 git fetch github master
 ```
 
-### 如何切换 https 方式 to ssh 方式
+### [如何切换 https 方式 to ssh 方式](https://blog.csdn.net/xl_1851252/article/details/81274721)
 
 ```
 # 需求：由于 Github 最近添加了不同的认证方式，Two-factor authentication. 所以，我也想把 git 推代码的方式由 https 的方式编程ssh的方式。步骤如下：
