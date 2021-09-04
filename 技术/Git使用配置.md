@@ -319,6 +319,26 @@ git push
 git fetch github master
 ```
 
+### 如何切换 https 方式 to ssh 方式
+
+```
+# 需求：由于 Github 最近添加了不同的认证方式，Two-factor authentication. 所以，我也想把 git 推代码的方式由 https 的方式编程ssh的方式。步骤如下：
+
+# step 01: 首先同步代码，使得远程仓库的代码和本地仓库一致
+git pull
+
+# step 02: 移除当前远程仓库
+git remote remove origin
+
+# step 03: 重新设置远程仓库
+git remote add origin git@github.com:MarkShen1992/article.git
+
+# step 04: 指定远程仓库的分支
+git branch --set-upstream-to=origin/master
+
+# 这四步都执行完后就算完成了切换。当然，变成 ssh 的方式的前提是已经设置了 key. 这时很重要的，如有代理，需确认端口号是否一致。
+```
+
 ## 不同人修改了不同文件如何处理
 
 ```
