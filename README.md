@@ -63,8 +63,9 @@
 [但是还有书籍](https://www.bilibili.com/bangumi/play/ss27249/)
 
 
+### 好玩的软件
 
-
+- [Surge](https://surge-synthesizer.github.io/)
 
 ### 企业
 
