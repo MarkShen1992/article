@@ -10,6 +10,8 @@
 
 每年学习一个新技能。
 
+- [150定律](https://baike.baidu.com/item/150%E5%AE%9A%E5%BE%8B/2112262)
+
 ### 技术
 
 [JVM  learn](https://github.com/MarkShen1992/article/blob/master/%E6%8A%80%E6%9C%AF/GC_Tuning_note.md)
