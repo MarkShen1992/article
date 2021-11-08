@@ -3,6 +3,11 @@
 #### 前端
 - [CanIUse](www.caniuse.com)
 
+##### micro frontend
+
+- [micro service](https://micro-frontends.org/)
+- [martinfowler-micro-frontend](https://martinfowler.com/articles/micro-frontends.html)
+
 #### 后端
 - [tidb communitity](https://asktug.com/)
 - [akkt](https://akka.io/docs/)
