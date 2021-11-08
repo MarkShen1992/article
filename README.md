@@ -79,11 +79,6 @@
 
 [Rachel's English](https://rachelsenglish.com/)
 
-### 好玩的软件
-
-- [Surge](https://surge-synthesizer.github.io/)
-- [calibre](https://manual.calibre-ebook.com/)
-
 ### 企业
 
 **vision, mission, core values**
