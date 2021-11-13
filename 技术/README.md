@@ -58,3 +58,13 @@
 
 #### 微观
 - [缓存一致性协议](https://www.cnblogs.com/ynyhl/p/12119690.html)
+
+#### 数据处理
+- [Pandas 官方教程](https://wizardforcel.gitbooks.io/pandas-official-tut-zh/content/)
+
+#### 文档
+- [torna:企业接口文档解决方案](https://gitee.com/durcframework/torna)
+
+#### 开源项目
+- [阿里开源项目](https://opensource.alibaba.com/project)
+- [Didi open source platform](https://didi.github.io/)
