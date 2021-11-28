@@ -84,6 +84,7 @@
 **vision, mission, core values**
 
 - [酌见](https://github.com/MarkShen1992/article/tree/master/biz)
+- [Amazon Leadership Principals](https://github.com/MarkShen1992/article/tree/master/biz/Amazon.md)
 
 ### 推荐网站
 
