@@ -500,3 +500,60 @@ https://www.jianshu.com/p/d9f217e1b09b
 ## 给项目增加文档
 
 - wiki document
+
+## 同步fork的仓库
+
+- 列出当前为 Fork 配置的远程仓库
+```
+$ git remote -v
+origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+```
+
+- 指定将与 Fork 同步的新远程上游（upstream）仓库
+```
+$ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+```
+
+- 验证为 Fork 指定的新上游仓库
+```
+$ git remote -v
+origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
+upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+```
+
+- 从上游仓库获取分支及其各自的提交，传送到本地，对 master 分支的提交将存储在本地分支 upstream/master 中
+```
+$ git fetch upstream
+remote: Counting objects: 75, done.
+remote: Compressing objects: 100% (53/53), done.
+remote: Total 62 (delta 27), reused 44 (delta 9)
+Unpacking objects: 100% (62/62), done.
+From https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY
+ * [new branch]      master     -> upstream/master
+```
+
+- 切换到本地的主分支
+```
+$ git checkout master
+Switched to branch 'master'
+```
+
+- 将来自 upstream/master 的更改合并到本地 master 分支中。这就实现了与上游仓库的同步，而不会丢失本地的更改
+```
+$ git merge upstream/master
+Updating a422352..5fdff0f
+Fast-forward
+ README                    |    9 -------
+ README.md                 |    7 ++++++
+ 2 files changed, 7 insertions(+), 9 deletions(-)
+ delete mode 100644 README
+ create mode 100644 README.md
+```
+
+- 最后推送到远程仓库就完成了
+```
+$ git push origin master
+```
