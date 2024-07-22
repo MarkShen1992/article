@@ -10,6 +10,8 @@
 
 每年学习一个新技能。
 
+[weekly](./weekly/README.md)
+
 [150定律](https://baike.baidu.com/item/150%E5%AE%9A%E5%BE%8B/2112262)
 
 ### 技术
